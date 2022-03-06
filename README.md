@@ -1,2 +1,2 @@
 # some-minecraft-client-sources
-skid 
+clients to skid

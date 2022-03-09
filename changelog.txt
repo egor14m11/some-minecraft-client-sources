@@ -1,0 +1,44 @@
+Client fully recoded 
+[+] Speed (Mods: MatrixFast, MatrixSlow, Custom)
+[+] Jesus (nice bypass Matrix)
+[+] Scaffold (Mods: Matrix, Normal, Hypixel, Expand, Ncp, Redesky)
+[+] NoFall (Mods: Matrix, Hypixel, Spartan)
+[+] NoSlow (Mods: Matrix, Vanilla, NoSprint, AAC, MoveStat, Verus, NCP)
+[#] Speed (MatrixFast терь еще быстрее)
+[+] TargetHUD(Mods: Rave@Beta, Exhibition, Novoline)
+[+] Added smooth scroll in gui
+[+] GuiLogin
+[+] Color Picker in gui 
+[+] LongJump (Mode: MatrixWater)
+[+] New ClickGUI (WintWare) 
+[+] AntiBot (Mode: Matrix, HitBefore)
+[+] China Hat (Mode: Rainbow, Astrolfo, Static, Two Color)
+[+] Added image (mode Lobim1, Anime Girl)
+[*] Fixed Hud
+[+] Main Menu 
+[+] Via Version 
+[+] Shader background in gui login 
+[+] Summer gui
+[+] Theme in flux gui (mode: Light, Dark) 
+[*] Auto Save 
+[+] Flux mode in target hud
+[+]  PlayerList (Modes: Server, Nearby)
+[+] WaterMark (Modes: Neverlose, Label, Sixsense, Onetap)
+[*] WaterMark (+ 2 modes: OneTap v2, OneTap v3)
+[+] Trails (modes: Astolfo, rainbow, pulsing, static), можно настраивать прозрачность, частоту переливания цветов, длину, а прозрачность с длиной линии угасает. 
+[+] Old Flux target hud
+[+] in image(mode: taco)
+[+] GuiGhangeLogs
+[+] New animation in hud(mode: novoline, old rave, nothing) 
+[*] Client now optimizated 
+[+] Added coins system in client
+[+] Change modes (in flux gui)
+[-] Remove flux font manager
+[+] Added Item Physics (mode: Speed Rotations)
+[+] PlayerESP (мне лень писать моды и настройки, смотрите сами)
+[#] PlayerESP ([+]PenisESP)
+[#] PlayerESP ([+] Image)
+[#] PlayerESP ([+] 3D Box)
+[+] ChestESP (Mode: Outline, CSGO, BOX)
+[#] ChestESP ([+] Mode: Chams) 
+[+] WeebSpeak(можно выбирать сообщение, которое будет там, функция по рофлу сделана, удалю может скоро
